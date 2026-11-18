@@ -2,8 +2,6 @@
 
 I build and run my own live products, and I grow them myself: lead generation, outreach, and social media, every day. If you hire me, you get the person who does this for his own businesses, not an agency hand-off.
 
-**Hire me on Upwork:** https://www.upwork.com/freelancers/~01fa316b06fa88e50a
-
 ## Live products I built and run
 
 ### CaribTutor — Online Tutoring Platform
@@ -52,6 +50,4 @@ A published Android app (Paragan Labs): gentle reminders to call, text, and chec
 
 ## Work with me
 
-Tell me what you sell and who buys it, and I will show you where your customers are and how I would reach them. For builds, send the outcome you want and I will scope it straight.
-
-**Upwork:** https://www.upwork.com/freelancers/~01fa316b06fa88e50a
+I am open to full-time, contract, and freelance work. Tell me what you sell and who buys it, and I will show you where your customers are and how I would reach them. For builds, send the outcome you want and I will scope it straight. You can reach me through GitHub, or through any of the live products above.
